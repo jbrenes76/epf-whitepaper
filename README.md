@@ -1,41 +1,51 @@
-# The Entropic Persistence Framework (EPF): A Foundational Blueprint for Post-Human Intelligence
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16808925.svg)](https://doi.org/10.5281/zenodo.16808925)
+# The Entropic Persistence Framework (EPF)
 
-**Author:** Juvenal Hernando Brenes Bobea 
+### A Layered Reference Architecture for Entropy-Resistant Autonomous Systems
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+
+**Author:** Juvenal Hernando Brenes Bobea
 **Email:** juvenal.brenes@gmail.com
-**Version:** v1.0.0
-**Date:** 2025-08-11
+**Version:** v2.0.0
+**Date:** 2025-06-08
 
-This repository hosts the white paper and materials for the **Entropic Persistence Framework (EPF)** — a six-layer architecture for designing and evaluating persistent, non‑biological life systems that resist entropy across physical and informational layers.
+This repository hosts the white paper and materials for the **Entropic Persistence Framework (EPF)** — a six-layer reference architecture for designing and evaluating entropy-resistant autonomous systems — specified with formal metrics, a tiered compliance protocol, and engineering mechanisms per layer.
 
-👉 **Join the technical feedback thread:** https://github.com/jbrenes76/epf-whitepaper/discussions/1
+👉 **Join the technical feedback thread:** [#1](https://github.com/jbrenes76/epf-whitepaper/discussions/1)
 
 ## Files
+
 - `EPF_whitepaper.pdf` — publication-ready PDF
 - `EPF_whitepaper.docx` — source document
-- `CITATION.cff` — how to cite this work (with DOI once minted)
+- `CITATION.cff` — how to cite this work
 - `LICENSE-TEXT` — license for the paper (CC BY 4.0)
 - `LICENSE-CODE` — license for any code/examples (MIT)
-- `CONTRIBUTING.md` — how to propose changes (issues, PRs, BIPs-style proposals)
+- `CONTRIBUTING.md` — how to propose changes (issues, PRs, EIP-style proposals)
 - `CODE_OF_CONDUCT.md` — community standards
 - `CHANGELOG.md` — notable changes per release
 
 ## Cite this work
+
 If you reference or build on this work, please cite:
 
-Brenes Bobea, J. H. (2025). *The Entropic Persistence Framework (EPF): A Foundational Blueprint for Post-Human Intelligence*. v1.0.0. https://doi.org/10.5281/zenodo.16808925
+Brenes Bobea, J. H. (2025). _The Entropic Persistence Framework (EPF): A Layered Reference Architecture for Entropy-Resistant Autonomous Systems_. v2.0.0. https://doi.org/10.5281/zenodo.XXXXXXX
 
-A machine-readable citation is in `CITATION.cff`. After you mint a DOI (e.g., via Zenodo), update both places.
+A machine-readable citation is in `CITATION.cff`.
 
 ## Summary
-**EPF** treats persistence as an applied fight against entropy. It layers concerns from **L0** (energy, hardware, reliability) up to **L5** (governance, merge/split, evolution), with measurable metrics per layer and safety rails for self-modification. Bitcoin is used as a persistence analogy for open, energy‑backed consensus and proposal‑driven evolution.
+
+EPF treats persistence as an applied fight against entropy, layered from **L0** (energy, hardware, reliability) up to **L5** (governance, merge/split, evolution). Each layer is specified with engineering responsibilities, composable mechanisms, and measurable metrics.
+
+v2.0 adds: a formal evaluation protocol defining **EPF-k compliance tiers**; **thermo-time scheduling** (co-aligning cognitive operations with energy availability); a **consensus decision table** distinguishing CRDT, PBFT, and Nakamoto by state type and trust topology; **generalization efficiency (GE)** as a formally defined L2 metric; **formal speciation gates**; and a Limitations and Open Problems section.
 
 ## Feedback & discussion
-Open a **GitHub Discussion** or **Issue** with concrete critique, references, or experiments. Please prefer primary/peer‑reviewed sources when challenging claims.
+
+Open a **GitHub Discussion** or **Issue** with concrete critique, references, or experiments. Please prefer primary/peer-reviewed sources when challenging claims.
 
 ## Reproducibility / Artifacts
-- White paper PDF and DOCX are included. Diagrams and code examples (if any) will live under `docs/` and `examples/` in future releases.
+
+White paper PDF and DOCX are included. Diagrams and code examples (if any) will live under `docs/` and `examples/` in future releases.
 
 ---
 
-*AI‑assistance disclosure:* drafting/editing support by GPT-5 and Google Gemini Thinking; all claims and edits reviewed and approved by the human author, who accepts full responsibility for the content.
+_AI‑assistance disclosure:_ v1.0 drafting/editing support by GPT-5 and Google Gemini Thinking. v2.0 drafting and structural revision support by Claude Sonnet (Anthropic). All claims, intellectual direction, and final editorial decisions are the sole responsibility of the human author.

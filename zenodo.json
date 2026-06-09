@@ -1,5 +1,5 @@
 {
-  "title": "The Entropic Persistence Framework (EPF): A Foundational Blueprint for Post-Human Intelligence",
+  "title": "The Entropic Persistence Framework (EPF): A Layered Reference Architecture for Entropy-Resistant Autonomous Systems",
   "upload_type": "publication",
   "publication_type": "report",
   "creators": [
@@ -8,7 +8,7 @@
       "affiliation": "Independent Researcher"
     }
   ],
-  "description": "White paper and materials for the Entropic Persistence Framework (EPF).",
+  "description": "White paper and materials for the Entropic Persistence Framework (EPF) v2.0. A six-layer reference architecture for designing entropy-resistant autonomous systems, specified with formal metrics, a tiered compliance protocol (EPF-k), and engineering mechanisms per layer.",
   "license": "cc-by-4.0",
-  "version": "v1.0.0"
+  "version": "v2.0.0"
 }
