@@ -1,13 +1,13 @@
 cff-version: 1.2.0
 message: If you use this work, please cite it as below.
 title: "The Entropic Persistence Framework (EPF): A Foundational Blueprint for Post-Human Intelligence"
-version: "v1.0.0"
+version: "v2.0.0"
 authors:
   - family-names: "Brenes Bobea"
     given-names: "Juvenal Hernando"
     email: "juvenal.brenes@gmail.com"
     affiliation: "Independent Researcher"
-date-released: "2025-08-11"
+date-released: "2026-06-09"
 type: "report"
 repository-code: "https://github.com/REPO_OWNER/REPO_NAME"
 doi: "10.5281/zenodo.16808925"
