@@ -28,7 +28,7 @@ This repository hosts the white paper and materials for the **Entropic Persisten
 
 If you reference or build on this work, please cite:
 
-Brenes Bobea, J. H. (2025). _The Entropic Persistence Framework (EPF): A Layered Reference Architecture for Entropy-Resistant Autonomous Systems_. v2.0.0. https://doi.org/10.5281/zenodo.XXXXXXX
+Brenes Bobea, J. H. (2025). _The Entropic Persistence Framework (EPF): A Layered Reference Architecture for Entropy-Resistant Autonomous Systems_. v2.0.0. https://doi.org/10.5281/zenodo.20617348
 
 A machine-readable citation is in `CITATION.cff`.
 
